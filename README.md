@@ -1,4 +1,4 @@
-# AI&ML in Healthcare Lab
+# HAIMLSBL701  AI&ML in Healthcare Lab
 
 ## Course Outcomes:
 After successful completion of the course, the student will be able to:
